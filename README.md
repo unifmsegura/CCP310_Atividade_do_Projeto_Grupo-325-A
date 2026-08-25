@@ -5,8 +5,8 @@ Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), 
 Este projeto é desenvolvido pelos seguintes alunos:
 
 - Matheus Bernardineli Segura - R.A.: 24.125.036-4
-- Leonardo Almeida Couto
-- Giuliano Lanzieri
+- Leonardo Almeida Couto - R.A.: 24.225.005-8
+- Giuliano Lanzieri - R.A.: 24.225.021-5
 
 ## Conhecendo o problema
 
