@@ -4,12 +4,38 @@
 
 1) **Identificação de Necessidades dos Usuários e Requisitos de UX**
 - Que dados coletar? (comportamentos, dores, expectativas, contexto de uso, frequência de uso, nível de familiaridade com tecnologia, etc.)
+
+A coleta de dados foi planejada para responder à nossa pergunta-problema de captação de recursos e engajamento orçamentário para o Centro de Apoio ao Paciente Oncológico - Eliane Martins. Focamos em levantar:
+
+- Hábitos e frequência de doação: Com que regularidade as pessoas realizam apoios financeiros para projetos sociais ou vaquinhas online.
+
+- Barreiras de interação e atritos técnicos (Dores de UX): Quais fatores visuais ou burocráticos fazem o doador desistir no meio de uma transação (como cadastros demorados, falta de confiança ou interfaces mal projetadas).
+
+- Preferência de transação e conveniência: Quais são os meios de pagamento favoritos do usuário no cotidiano pela praticidade.
+
+- Gatilhos de confiança e transparência (Motivações): O impacto do uso de recursos visuais de progresso de metas físicas de crowdfunding (ex: barra de progresso, relatórios, mural de fotos) na decisão de doar.
+
 - De quem coletar? (perfil do público-alvo e critérios de seleção dos participantes — quantos, onde encontrá-los)
+
+- Perfil do Público-Alvo: Jovens adultos e adultos (estudantes e profissionais) que já utilizam meios de transação digitais para pagamentos cotidianos.
+
+- Amostra Mapeada: O questionário quantitativo consolidou 28 a 29 respostas completas de campo.
+Faixa Etária: Predominância de respondentes de 18 a 25 anos e de 26 a 35 anos, seguidos por acima de 50 anos e 36 a 50 anos.
+
+- Recrutamento (WhatsApp): Divulgação ativa via grupos de Igreja, redes de relacionamento pessoal com o perfil de potenciais doadores e área comercial ou departamento de atendimento e vendas no varejo.
 
 2) **Aspectos Éticos**
 - Seu projeto deverá considerar aspectos éticos? Justifique usando os conceitos da aula.
 - Como o consentimento dos participantes será obtido (termo de consentimento)?
 - Como os dados coletados serão armazenados, anonimizados e descartados, considerando a LGPD?
+
+Sim, o projeto envolve diretamente o tratamento de dados de participantes de pesquisa. Por esse motivo, as diretrizes éticas de IHC e a legislação nacional foram aplicadas:
+
+- Termo de Consentimento Livre e Esclarecido (TCLE): No início do questionário digital e antes do início das conversas presenciais ou teleconferências com os participantes, foi disponibilizado um aviso sobre a finalidade puramente acadêmica da pesquisa, o caráter voluntário da resposta e a garantia do direito de retirada sem quais ônus.
+
+- Conformidade com a LGPD (Lei nº 13.709/2018): Todas as respostas foram coletadas de forma estritamente anonimizada. Não houve solicitação de nomes, e-mails de uso pessoal, chaves Pix, CPFs ou dados de cartões de crédito.
+
+- Descarte dos Dados: As transcrições de trabalho de IHC estão guardadas em um diretório seguro compartilhado apenas pela equipe de desenvolvimento e serão permanentemente deletadas após o encerramento do período de avaliação da disciplina de Experiência do Usuário.
 
 3) **Ferramentas de Coleta de Dados (três técnicas diferentes)**
 
@@ -20,35 +46,26 @@ Para cada instrumento, apresente:
 - Explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)
 - Instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)
 
----
+- 1. Questionário Quantitativo (Google Forms)
 
-## Exemplo de entrega
+Objetivo: Quantificar as ferramentas utilizadas pelo público, a frequência real de doações e os principais pontos de fricção que causam abandono do fluxo.
 
-> O exemplo abaixo é fictício — usa como cenário um app universitário de organização de grupos de estudo ("Estuda+") apenas para ilustrar o **nível de detalhe e formato** esperado. Não copie o conteúdo, copie a estrutura.
+Como Aplicar: Aplicação online por link estruturado. Sem coleta de e-mail ou dados identificadores pessoais. Tempo estimado de preenchimento de 5 minutos.
 
-### 1) Identificação de Necessidades dos Usuários e Requisitos de UX
+Link do formulário: https://docs.google.com/forms/d/e/1FAIpQLSfPDx1awLMYwLPTHJgMzctoqupoQR7EjLgu6xrybKW4mSu1mA/viewform?usp=dialog
 
-**Que dados coletar?**
-- Como os alunos hoje organizam sessões de estudo em grupo (ferramentas usadas, frequência).
-- Principais dificuldades para combinar horários e manter o grupo engajado.
-- Expectativas sobre lembretes, divisão de tópicos de estudo e acompanhamento de progresso.
+- 2. Entrevista Semiestruturada
 
-**De quem coletar?**
-- Alunos de graduação de Ciência da Computação, do 2º ao 6º semestre, que já participaram de pelo menos um grupo de estudo nos últimos 6 meses.
-- Amostra mínima: 8 alunos para entrevistas, 40 respostas para o questionário.
-- Recrutamento: convite em grupos de turma no WhatsApp/Discord.
+Objetivo: Investigar as motivações emocionais do ato de doar, receios de segurança com cartões de crédito e o que o doador espera de retorno visual após ajudar.
 
-### 2) Aspectos Éticos
+Como Aplicar: Sessão individual por chamada de vídeo (Microsoft Teams/Google Meet) ou presencial. O entrevistador segue o roteiro básico, mas tem liberdade para usar perguntas de acompanhamento para explorar sentimentos.
 
-Sim, o projeto envolve dados pessoais de participantes (nome, e-mail, respostas sobre hábitos de estudo), portanto:
-- Será aplicado um **Termo de Consentimento Livre e Esclarecido (TCLE)** antes de qualquer coleta, explicando objetivo da pesquisa, uso dos dados e direito de desistência a qualquer momento.
-- Os dados serão coletados de forma **anonimizada** (sem nome/e-mail nas respostas do questionário) e armazenados apenas na equipe, em conformidade com a LGPD (Lei n.º 13.709/2018).
-- Gravações de entrevista serão apagadas ao final do projeto, mantendo-se apenas as transcrições anonimizadas usadas na análise.
+[Roteiro de Entrevista Qualitativa UX para Plataforma de Crowdfunding.pdf](https://github.com/user-attachments/files/31600623/Roteiro.de.Entrevista.Qualitativa.UX.para.Plataforma.de.Crowdfunding.pdf)
 
-### 3) Ferramentas de Coleta de Dados
+- 3. Investigação Contextual (Sede)
 
-| Instrumento | Objetivo | Como aplicar | Link/Roteiro |
-| :---- | :---- | :---- | :---- |
-| **Entrevista semiestruturada** | Entender em profundidade como os alunos organizam e mantêm grupos de estudo, e onde o processo falha. | Sessão individual de 20-30 min, presencial ou por chamada de vídeo. Seguir o roteiro fixo, mas permitir perguntas de aprofundamento ("por quê?", "pode dar um exemplo?"). Gravar com autorização e transcrever depois. | Roteiro: 1) Como você organiza sessões de estudo hoje? 2) Conte sobre a última vez que um grupo de estudo não funcionou. 3) O que faria você usar um app específico para isso? |
-| **Questionário (Google Forms)** | Quantificar ferramentas usadas, frequência de grupos de estudo e principais frustrações, em uma amostra maior. | Divulgar o link em grupos de turma, aberto por 1 semana. Sem identificação pessoal, tempo estimado de resposta de 5 min. | `https://forms.google.com/exemplo-estuda-mais` *(placeholder — substituir pelo link real)* |
-| **Grupo focal** | Observar a discussão entre alunos sobre o que tornaria um grupo de estudo "bom", captando divergências de opinião difíceis de obter em entrevista individual. | Sessão única com 5-6 alunos, 45 min, mediada por um membro da equipe seguindo um roteiro de tópicos, com outro membro registrando anotações. | Roteiro de tópicos: hábitos atuais, ferramentas testadas e abandonadas, o que faria o grupo "durar" até a prova. |
+Objetivo: Compreender a situação que a ONG se encontra.
+
+Como Aplicar: O pesquisador atua no papel de aprendiz, visitando a sede física da ONG na Vila Mariana (SP) e observando de perto a rotina de atendimento de Alexandra. 
+
+[Entrevista.pdf](https://github.com/user-attachments/files/31600656/Entrevista.pdf)
