@@ -55,7 +55,7 @@ Vakinha Anúncios: Serviço que gera e gerencia posts patrocinados automaticamen
 
 Feed de contribuições: Linha do tempo dinâmica atualizada que exibe o nome de quem doou e comentários recentes de incentivo.
 
-C. Doare.org
+- C. Doare.org
 
 Checkout Multimoeda: Permite receber doações em Real (BRL), Dólar (USD), Euro (EUR) ou Libra (GBP) de maneira tuomatizada.
 
