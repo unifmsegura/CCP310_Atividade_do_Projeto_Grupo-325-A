@@ -7,45 +7,68 @@
 O público-alvo de doadores digitais no Brasil utiliza majoritariamente três plataformas de captação e intermediação financeira:
 
 - 1. Donorbox
+
 Link: https://donorbox.org
+
 Descrição: Suíte global de captação de recursos e software de doações focado em checkouts rápidos de baixo atrito (UltraSwift) e doações recorrentes para organizações sem fins lucrativos.
+
 <img width="1356" height="715" alt="image" src="https://github.com/user-attachments/assets/17e3c901-5bb5-452b-b3f1-d3017a0a8f10" />
 
 - 2. Vakinha.com
+
 Link: https://www.vakinha.com.br
+
 Descrição: A maior plataforma de "vaquinhas online" (crowdfunding) da América Latina, com forte apelo social e uso de gamificação para causas pessoais, de saúde, animais e institucionais focadas no mercado brasileiro.
+
 <img width="1400" height="867" alt="image" src="https://github.com/user-attachments/assets/bb36bea5-7a45-4e9e-a8d1-ff0ac7afbef2" />
 
 - 3. Doare.org
+
 Link: https://doare.org
+
 Descrição: Plataforma brasileira especializada em captação de doações online para o terceiro setor e negócios sociais. Destaca-se pela automação da régua de relacionamento, CRM integrado e soluções locais de pagamento.
+
 <img width="1522" height="675" alt="image" src="https://github.com/user-attachments/assets/78e82384-95aa-413b-8d5b-e0f346fe05be" />
 
 > **_NOTE:_**: link, descrição e imagens de ilustração
 2. Descreva as características e funcionalidades de cada concorrente.
 
 - A. Donorbox
+
 Checkout UltraSwift: Formulário de doação otimizado que reduz etapas de digitação, anunciado como até 4 vezes mais rápido do que checkouts convencionais.
+
 CRM integrado com Inteligência Artificial (Jay-AI): Ferramenta de IA para segmentação de doadores, análise de dados e criação automática de materiais de engajamento.
+
 Donorbox Live Kiosk: Funcionalidade que converte tablets em terminais físicos de doação por aproximação em eventos.
+
 Text-to-Give: Sistema que permite doações instantâneas via envio de SMS do celular.
+
 Memberships: Gestão simplificada de assinaturas mensais e planos de benefícios para os apoiadores.
 
 - B. Vakinha.com
+
 Criação assistida de campanhas: Fluxo passo a passo contendo 7 etapas básicas para que o usuário configure sua vaquinha de forma independente.
+
 Gamificação por "Corações": Sistema de likes/corações para medir o engajamento e a popularidade das campanhas, permitindo a compra de pacotes de corações para aumentar o destaque no algoritmo do site.
+
 Vakinha Anúncios: Serviço que gera e gerencia posts patrocinados automaticamente nas rede sociais (Facebook e Instagram) para expandir o alcance da campanha do usuário.
+
 Feed de contribuições: Linha do tempo dinâmica atualizada que exibe o nome de quem doou e comentários recentes de incentivo.
 
 C. Doare.org
+
 Checkout Multimoeda: Permite receber doações em Real (BRL), Dólar (USD), Euro (EUR) ou Libra (GBP) de maneira tuomatizada.
+
 Pix automático: Sistema focado no mercado nacional para transformar doações únicas de Pix em assinaturas de mensalistas de forma automática.
+
 Régua de relacionamento automatizada: Automação de envio de mensagens personalizadas e tentativas de reprocessamento (retry) de cobranças falhas para reduzir inadimplência.
+
 Onboarding humano e Migração de bases: Serviço assistido de migração de bases antigas de doadores sem interrupção de cobranças.
 
 3. Colete opiniões sobre a experiência do usuário (UX) de cada concorrente.
 
 - A. Donorbox (Pontuaçãp Trustpilot: 4.3 de 5 estrelas)
+
 Link: https://ca.trustpilot.com/review/donorbox.org
 
 <img width="557" height="417" alt="image" src="https://github.com/user-attachments/assets/f499dbb7-5acc-4cea-93f1-b6ed85a106fe" />
@@ -58,6 +81,7 @@ Link: https://ca.trustpilot.com/review/donorbox.org
 - Pontos Negativos (Contras): Hazel Skeet relatou frustração com o tempo de resolução de erros nos relatórios mensais e conversão cambial. Vicky Edwards aponta um problema sério de arquitetura de informação, onde ativou uma assinatura mensal por engano devido à falta de destaque visual do botão antes do valor da doação. Outros doadores reclamam que o painel administrativo de back-end é muito simples e rígido.
 
 - B. Vakinha.com (Pontuação Reclame Aqui: BOM - 7.4/10)
+
 Link: https://www.reclameaqui.com.br/empresa/vakinha-internet-ltda/
 
 <img width="820" height="260" alt="image" src="https://github.com/user-attachments/assets/96851647-7a66-491d-9fa9-77c39b0070d0" />
@@ -68,6 +92,7 @@ Link: https://www.reclameaqui.com.br/empresa/vakinha-internet-ltda/
 - Pontos Negativos (Contras): Diversos criadores de campanha reclamam de bloqueios repentinos de saldo (como um caso de R$ 2.000 retido sob alegação de problemas de ativação). Outro ponto crítico é a demora de resposta do suporte financeiro em casos de contestações. Houve queixas sobre a ineficiência de campanhas pagas de publicidade de corações, onde usuários pagaram por anúncios e não receberam nenhuma doação, além de reclamações de vaquinhas que "sumiram" do sistema após o pagamento de taxas adicionais de destaque.
 
 - C. Doare.org (Pontuação Reclame Aqui: ÓTIMO - 8.7/10)
+
 Link: https://www.reclameaqui.com.br/empresa/doare/
 
 <img width="842" height="242" alt="image" src="https://github.com/user-attachments/assets/acff7327-8a91-40e4-be1c-56eca37e1e70" />
@@ -82,14 +107,18 @@ Link: https://www.reclameaqui.com.br/empresa/doare/
 As plataformas atuam em modelos de receita baseados em cobrança de taxas percentuais por transação, assinaturas SaaS ou serviços de marketing adicionais.
 
 - A. Donorbox
+
 Link: https://donorbox.org/pricing
+
 Mensalidade Base (Saas) -> Plano Standard: R$ 0/mês. Plano Pro: $150 /mês. Premium: Customizado.
 Taxa sobre cartão / Pix -> Standard: 2,95% a 3,95%. Pro: 1,5%. Premium: 1,6% a 2%.
 Tarifa por boleto bancário -> N/A (Usa taxas adicionais do gateway com Stripe ou PayPal).
 Prazos e Taxas de saque -> N/A (Saques dependem das regras do gateway utilizado).
 
 - B. Vakinha.com
+
 Link: https://www.vakinha.com.br/taxas-e-prazos
+
 Mensalidade Base (Saas) -> R$ 0/mês (Criação gratuita de campanhas).
 Taxa sobre cartão / Pix -> 6,4% fixos sobre qualquer doação.
 Tarifa por boleto bancário -> Incluso na taxa padrão de 6,4% + R$ 0,50.
@@ -98,7 +127,9 @@ Prazos e Taxas de saque -> R$ 5,00 por saque solicitado. Liberação de saldo em
 - Nota sobre monetização da Vakinha: A plataforma também fatura através do Vakinha Anúncios, vendendo pacotes de impulsão interna por R$ 29,90 (1.000 visualizações) ou de anúncios nas rede sociais do Facebook/Instagram por R$ 49,90 (7.000 pessoas impactadas).
 
 - C. Doare.org
+
 Link: https://doare.org/plataforma#planos
+
 Mensalidade Base (Saas) -> Básico: R$ 390/mês. Profissional: R$ 650/mês. Avançado: R$ 980/mês.
 Taxa sobre cartão / Pix -> Básico: 6,2% + R$ 0,45. Profissional: 5,3% + R$ 0,35. Avançado: 3,5% + R$ 0,25.
 Tarifa por boleto bancário -> Básico/Profissional: R$ 2,60. Avançado: R$ 2,40.
