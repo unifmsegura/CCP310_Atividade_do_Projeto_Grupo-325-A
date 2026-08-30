@@ -215,22 +215,23 @@ O CTT abaixo descreve a interação lógica concorrente entre a gestora e o dash
 ```
 0. Lançar nova campanha de meta no Dashboard [Abstrata]
     1. Preencher Dados da Campanha [Abstrata]
-        [|}>> (Ativação com passagem de dados: envia a meta escolhida para a definição de valor)
+        1.1 Preencher Título [Interativa]
+            ||| (Concorrência: preenchimento de campos paralelos do formulário)
+        1.2 Preencher Valor da Meta [Interativa]
+            ||| 
+         1.3 Preencher Descrição [Interativa]  
+         [|]>> (Ativação com passagem de dados: os dados do formulário habilitam a anexação de mídia)
     2. Definir Doação [Abstrata]
-        2.1 Escolher Valor [Interativa]
-            ||| (Concorrência: o usuário preenche o valor e o e-mail sem ordem fixa)
-        2.2 Preencher E-mail [Interativa]
-        [|]>> (Ativação com passagem de dados: envia valor e e-mail para a geração do Pix)
-    3. Efetuar Pagamento [Abstrata]
-        3.1 Solicitar Código Pix [Interativa]
-            >> (Ativação sequencial: a geração automática depende do clique do usuário)
-        3.2 Gerar Pix e QR Code [Sistema]
-            [|]>> (Ativação com passagem de dados: envia a chave Pix gerada para a interface)
-        3.3 Apresentar Chave Pix [Sistema]
+        2.1 Fazer Upload de Mídia [Interativa]
+            [|]>> (Ativação com passagem de dados: envia o arquivo para a checagem de formato do sistema)
+        2.2 Validar Extensão e Tamanho [Sistema]
+        >> (Ativação com passagem de dados: a publicação depende do upload estar validado)
+    3. Publicar Campanha [Abstrata]
+        3.1 Confirmar Publicação [Interativa]
             >> (Ativação sequencial)
-        3.4 Copiar Chave Pix [Interativa]
+        3.2 Salvar Campanha no MongoDB [Sistema]
+            [|]>> (Ativação com passagem de dados: os dados do banco alimentam a renderização gráfica)
+        3.3 Renderizar Gráfico de Progresso Circular [Sistema]
             >> (Ativação sequencial)
-        3.5 Pagar no App do Banco [Usuário]
-            [> (Desativação: a transação bancária é interrompida pelo processamento do sistema)
-        3.6 Confirmar Recebimento e Atualizar Gráfico [Sistema]
+        3.4 Visualizar Mensagem de Sucesso [Interativa]
 ```
