@@ -163,10 +163,12 @@ Ao cruzar os relatórios internacionais de crescimento e o comportamento local d
 Após o cruzamento de toda a análise de dados com as necessidades identificadas em nossa pesquisa quantitativa, observamos:
 
 - Ponto Positivo dos concorrentes: O uso de barras de progresso visual de metas de crowdfunding (Vakinha/Doare) é extremamente eficiente.
+
 - Ponto Negativo dos concorrentes: O atrito excessivo de cadastro e a dificuldade extrema de cancelamento de mensalidades (Doare).
+
 - Ponto Crítico de transparência: Doadores exigem saber para onde vai o dinheiro (baseado na nossa pesquisa que fizemos no Google Forms).
 
-7. Extraia pontos positivos/negativos e faça recomendações.
+## 7. Extraia pontos positivos/negativos e faça recomendações.
 
 - Implementaremos gráficos de progresso circulares e barras de preenchimento dinâmicos no dashboards, codificados por meio da API de HTML5 Canvas integrada ao JavaScript.
 
