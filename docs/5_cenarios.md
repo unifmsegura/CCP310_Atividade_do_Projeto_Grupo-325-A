@@ -37,7 +37,7 @@ Nas últimas tentativas de doação digital de Bruno, o padrão de barreira de u
 
 - Contexto Social e Cognitivo: Nível de familiaridade tecnológica alto. Bruno lida com atenção extremamente fragmentada por distrações visuais e fadiga cognitiva após o horário de expediente, exigindo fluxos de checkout concluídos em menos de 1 minuto.
 
-### 5) Jornada do Usuário (atual, sem solução) — Marina
+### 5) Jornada do Usuário (atual, sem solução) — Bruno Silva
 
 | Etapa | O que acontece | Estado emocional |
 | :---- | :---- | :---- |
@@ -92,7 +92,7 @@ A rotina de Alexandra é marcada por multitarefa extrema e sobrecarga administra
 
 - Contexto Social/Cognitivo: Constantes interrupções físicas de pacientes e voluntários (a cada 3 a 5 minutos). Carga cognitiva e emocional altíssima decorrente do acolhimento diário de mulheres debilitadas em tratamento oncológico de alta vulnerabilidade.
 
-### 5) Jornada do Usuário (atual, sem solução) — Marina
+### 5) Jornada do Usuário (atual, sem solução) — Alexandra Almeida
 
 | Etapa | O que acontece | Estado emocional |
 | :---- | :---- | :---- |
