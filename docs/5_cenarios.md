@@ -52,7 +52,7 @@ journey
     title Jornada atual de Bruno (sem solução)
     section Apoiar a causa
       Visualiza post sobre combustível da van da ONG: 8: Bruno
-      Clica no link buscando um pagamento rápido: 8: Bruno
+      Clica no link buscando um pagamento rápido: 7: Bruno
     section Barreira Técnica
       Interface demorada exige CPF, CEP e senha: 3: Bruno
       Sente receio de segurança ao digitar dados sensíveis: 2: Bruno
