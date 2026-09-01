@@ -2,7 +2,7 @@
 
 > **_NOTE:_**: O objetivo desta entrega é planejar e registrar como a equipe vai ouvir os usuários reais (ou representativos do público-alvo) antes de avançar para personas e cenários. Não é para relatar impressões da equipe — é para descrever o que será perguntado, para quem, como e por quê.
 
-1) **Identificação de Necessidades dos Usuários e Requisitos de UX**
+## 1) **Identificação de Necessidades dos Usuários e Requisitos de UX**
 - Que dados coletar? (comportamentos, dores, expectativas, contexto de uso, frequência de uso, nível de familiaridade com tecnologia, etc.)
 
 A coleta de dados foi planejada para responder à nossa pergunta-problema de captação de recursos e engajamento orçamentário para o Centro de Apoio ao Paciente Oncológico - Eliane Martins. Focamos em levantar:
@@ -24,7 +24,7 @@ Faixa Etária: Predominância de respondentes de 18 a 25 anos e de 26 a 35 anos,
 
 - Recrutamento (WhatsApp): Divulgação ativa via grupos de Igreja, redes de relacionamento pessoal com o perfil de potenciais doadores e área comercial ou departamento de atendimento e vendas no varejo.
 
-2) **Aspectos Éticos**
+## 2) **Aspectos Éticos**
 - Seu projeto deverá considerar aspectos éticos? Justifique usando os conceitos da aula.
 - Como o consentimento dos participantes será obtido (termo de consentimento)?
 - Como os dados coletados serão armazenados, anonimizados e descartados, considerando a LGPD?
@@ -37,7 +37,7 @@ Sim, o projeto envolve diretamente o tratamento de dados de participantes de pes
 
 - Descarte dos Dados: As transcrições de trabalho de IHC estão guardadas em um diretório seguro compartilhado apenas pela equipe de desenvolvimento e serão permanentemente deletadas após o encerramento do período de avaliação da disciplina de Experiência do Usuário.
 
-3) **Ferramentas de Coleta de Dados (três técnicas diferentes)**
+## 3) **Ferramentas de Coleta de Dados (três técnicas diferentes)**
 
 > **_NOTE:_**: Escolher técnicas complementares (ex.: uma qualitativa individual, uma qualitativa em grupo, uma quantitativa), não três variações da mesma técnica.
 
@@ -46,26 +46,8 @@ Para cada instrumento, apresente:
 - Explicar como aplicar (serve para normalizar o processo de aplicação quando pessoas distintas aplicam o instrumento)
 - Instrumento (por exemplo, link do questionário no Google Forms, roteiro de entrevista, roteiro do Grupo Focal, etc)
 
-- 1. Questionário Quantitativo (Google Forms)
-
-Objetivo: Quantificar as ferramentas utilizadas pelo público, a frequência real de doações e os principais pontos de fricção que causam abandono do fluxo.
-
-Como Aplicar: Aplicação online por link estruturado. Sem coleta de e-mail ou dados identificadores pessoais. Tempo estimado de preenchimento de 5 minutos.
-
-Link do formulário: https://docs.google.com/forms/d/e/1FAIpQLSfPDx1awLMYwLPTHJgMzctoqupoQR7EjLgu6xrybKW4mSu1mA/viewform?usp=dialog
-
-- 2. Entrevista Semiestruturada
-
-Objetivo: Investigar as motivações emocionais do ato de doar, receios de segurança com cartões de crédito e o que o doador espera de retorno visual após ajudar.
-
-Como Aplicar: Sessão individual por chamada de vídeo (Microsoft Teams/Google Meet) ou presencial. O entrevistador segue o roteiro básico, mas tem liberdade para usar perguntas de acompanhamento para explorar sentimentos.
-
-[Roteiro de Entrevista Qualitativa UX para Plataforma de Crowdfunding.pdf](https://github.com/user-attachments/files/31600623/Roteiro.de.Entrevista.Qualitativa.UX.para.Plataforma.de.Crowdfunding.pdf)
-
-- 3. Investigação Contextual (Sede)
-
-Objetivo: Compreender a situação que a ONG se encontra.
-
-Como Aplicar: O pesquisador atua no papel de aprendiz, visitando a sede física da ONG na Vila Mariana (SP) e observando de perto a rotina de atendimento de Alexandra. 
-
-[Entrevista.pdf](https://github.com/user-attachments/files/31600656/Entrevista.pdf)
+| Instrumento | Objetivo | Como Aplicar | Link/Roteiro |
+| :---- | :---- | :---- | :---- |
+| Questionário Quantitativo (Google Forms) | Quantificar as ferramentas utilizadas pelo público, a frequência real de doações e os principais pontos de fricção que causam abandono do fluxo. | Aplicação online por link estruturado. Sem coleta de e-mail ou dados identificadores pessoais. Tempo estimado de preenchimento de 5 minutos. | https://docs.google.com/forms/d/e/1FAIpQLSfPDx1awLMYwLPTHJgMzctoqupoQR7EjLgu6xrybKW4mSu1mA/viewform?usp=dialog |
+| Entrevista Semiestruturada | Investigar as motivações emocionais do ato de doar, receios de segurança com cartões de crédito e o que o doador espera de retorno visual após ajudar. | Sessão individual por chamada de vídeo (Microsoft Teams/Google Meet) ou presencial. O entrevistador segue o roteiro básico, mas tem liberdade para usar perguntas de acompanhamento para explorar sentimentos. | [Roteiro de Entrevista Qualitativa UX para Plataforma de Crowdfunding.pdf](https://github.com/user-attachments/files/31600623/Roteiro.de.Entrevista.Qualitativa.UX.para.Plataforma.de.Crowdfunding.pdf) |
+| Investigação Contextual (Sede) | Compreender a situação que a ONG se encontra. | O pesquisador atua no papel de aprendiz, visitando a sede física da ONG na Vila Mariana (SP) e observando de perto a rotina de atendimento de Alexandra. | [Entrevista.pdf](https://github.com/user-attachments/files/31600656/Entrevista.pdf) |
