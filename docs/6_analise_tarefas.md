@@ -163,7 +163,7 @@ graph TD
 
 - **Plano 2 (`2.1 / 2.2`):** O usuário anexa ou o orçamento oficial em formato PDF ou uma foto real tirada do celular de trabalho da ONG para servir como justificativa.
 
-- **Plano 3.2 (`3.1 > 3.2`):** A validação visual do progresso em Canvas é realizada imediatamente após o clique de confirmação de publicação.
+- **Plano 3 (`3.1 > 3.2`):** A validação visual do progresso em Canvas é realizada imediatamente após o clique de confirmação de publicação.
 
 ## Tabela de Operações, Problemas e Recomendações:
 
