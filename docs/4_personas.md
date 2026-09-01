@@ -6,13 +6,13 @@
 - Para cada persona, apresente: nome, foto de rosto, idade, ocupação, uma frase/citação que resuma sua motivação ou frustração principal, objetivos em relação ao produto/serviço e nível de familiaridade com tecnologia.
 - Toda característica da persona deve ser rastreável aos dados coletados na pesquisa (não adicione traços "porque parece razoável").
 
-1) Modelagem das Personas
+## 1) Modelagem das Personas
 
-Persona Primária 1: Bruno Silva (O Doador / Apoiador - Usuário Externo)
+## Persona Primária 1: Bruno Silva (O Doador / Apoiador - Usuário Externo)
 
 Este perfil representa a fatia majoritária de potenciais doadores digitais mapeados na pesquisa: jovens adultos que utilizam canais móveis de transação rápida, mas que desistem facilmente diante de burocracia ou falta de transparência.
 
-(colocar foto aqui)
+<img width="782" height="780" alt="Captura de tela 2026-09-01 092931" src="https://github.com/user-attachments/assets/bfc5e0ad-a9fb-4ee6-ac70-825801be0353" />
 
 | Campo | Descrição |
 | :---- | :---- |
@@ -34,13 +34,13 @@ Este perfil representa a fatia majoritária de potenciais doadores digitais mape
 | **Dores** | Atrito cadastral: Burocracia excessiva e digitação de dados desnecessários para transações rápidas. Sensação de descarte: Sentir-se ignorado pela ONG após realizar a doação, sem nenhum feedback ou agradecimento. Insegurança de cancelamento: Receio de assinar um plano mensal e ter o saldo preso ou passar por dificuldades técnicas para cancelar. |
 | **Ganhos** | Doação Expressa via Pix: Finalizar uma doação em menos de 1 minuto sem precisar de login. Acompanhamento visual de metas: Gráficos interativos em tempo real de que provem onde o dinheiro foi investido. Mural de impacto social: Feed simples com fotos das oficinas e depoimentos das "Divas" apoiadas. |
 
-[1] Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+<img width="1024" height="768" alt="(Atualizado) Mapa de Empatia CCP310" src="https://github.com/user-attachments/assets/7468ed3f-bfb3-4edb-b6dc-12d64aead3bc" />
 
-Persona Primária 2: Alexandra Almeida (A Coordenadora / Gestora da ONG - Usuária Interna)
+## Persona Primária 2: Alexandra Almeida (A Coordenadora / Gestora da ONG - Usuária Interna)
 
 Representa a gestão operacional e administrativa da ONG, que lida com a sobrecarga de gerenciar recursos e escalas manualmente, necessitando de uma ferramenta para prestar contas de forma autorizada e atrair novas receitas.
 
-(colocar foto aqui)
+<img width="872" height="872" alt="Captura de tela 2026-09-01 093007" src="https://github.com/user-attachments/assets/ced3d4cc-5e38-46fa-a78e-fead762357ff" />
 
 | Campo | Descrição |
 | :---- | :---- |
@@ -62,11 +62,13 @@ Representa a gestão operacional e administrativa da ONG, que lida com a sobreca
 | **Dores** | Falta de previsibilidade financeira: Sem saber quantas assinaturas de doadores recorrentes estarão ativas no próximo mês. Controle administrativo manual: Horas perdidas conferindo transferências financeiras por WhatsApp e organizando planilhas físicas de doadores. Retenção burocrática: Perda de doadores em potencial por lentidão na validação de dados de apoio ou suporte técnico ineficiente. |
 | **Ganhos** | Dashboard Administrativo Simplificado: Tela com gráficos rápidos de metas ativas e saldo em tempo real. Régua de relacionamento automatizada: Disparo de mensagens rápidas com relatórios integrados para os doadores. Controle de assinantes: Gerenciamento visual e centralizado dos doadores recorrentes mensais. |
 
-Persona Secundária: Patrícia Santos (A Paciente / "Diva" - Usuária Indireta)
+<img width="1024" height="768" alt="(Atualizado) Mapa de Empatia CCP310 (1)" src="https://github.com/user-attachments/assets/6c40706e-3fb3-432b-8238-5b3bc612d362" />
+
+## Persona Secundária: Patrícia Santos (A Paciente / "Diva" - Usuária Indireta)
 
 Representa as mulheres adultas assistidas pelo projeto social, que não doam recursos financeiros devido à vulnerabilidade de saúde e orçamento, mas cuja manutenção do tratamento gratuito depende diretamente do sucesso do app.
 
-(colocar foto aqui)
+<img width="872" height="877" alt="Captura de tela 2026-09-01 093613" src="https://github.com/user-attachments/assets/716dc223-1331-4be0-8de6-0e4118190ba0" />
 
 | Campo | Descrição |
 | :---- | :---- |
@@ -87,17 +89,3 @@ Representa as mulheres adultas assistidas pelo projeto social, que não doam rec
 | **Pensa e sente** | "O câncer é uma doença assustadora, parecia uma sentença de morte, mas na ONG me sinto acolhida e com forças para lutar." "Não tenho como pagar por psicólogos ou tratamentos de bem-estar. Essa instituição é minha salvação." "Tenho medo de faltar no tratamento se a van que me busca não tiver dinheiro para o combustível." |
 | **Dores** | Afastamento e isolamento: Solidão gerada pela perda do trabalho e abandono de familiares ou parceiros. Limitação logística: Falta de recursos para pagar passagens ou dificuldade de usar transporte público coletivo devido à debilidade física. |
 | **Ganhos** | Acolhimento Humanizado: Espaço seguro e gratuito para suporte emocional e psico-oncologia. Dignidade e Autoestima: Resgate do bem-estar estético por meio de oficinas gratuitas de beleza. Acessibilidade e praticidade: Um fluxo simples para receber alertas de consultas confirmadas e transporte disponível em seu celular básico. |
-
-> **_NOTE:_**: Cada persona deve ter uma foto de rosto que a represente. Vocês podem utilizar esse [site](https://thispersondoesnotexist.com/) para gerar as fotos.
-
-# Mapa de Empatia
-
-![Mapa de empatia](imagens/empatia.png)
-
-- Determine o mapa de empatia[1] de pelo menos duas personas primárias e uma secundária.
-  - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
-  - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
-  - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou produto.
-  - O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou produto. Quais expectativas o usuário cria sobre o serviço ou produto? Que tipo de serviço ou produto mais agrada essa persona?
-  - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
-  - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou produto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou produto satisfaz?
