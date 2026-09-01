@@ -12,7 +12,7 @@ O público-alvo de doadores digitais no Brasil utiliza majoritariamente três pl
 
 - Descrição: Suíte global de captação de recursos e software de doações focado em checkouts rápidos de baixo atrito (UltraSwift) e doações recorrentes para organizações sem fins lucrativos.
 
-<img width="1356" height="715" alt="image" src="https://github.com/user-attachments/assets/17e3c901-5bb5-452b-b3f1-d3017a0a8f10" />
+<img width="1350" height="715" alt="image" src="https://github.com/user-attachments/assets/17e3c901-5bb5-452b-b3f1-d3017a0a8f10" />
 
 ### 2. Vakinha.com
 
@@ -20,7 +20,7 @@ O público-alvo de doadores digitais no Brasil utiliza majoritariamente três pl
 
 - Descrição: A maior plataforma de "vaquinhas online" (crowdfunding) da América Latina, com forte apelo social e uso de gamificação para causas pessoais, de saúde, animais e institucionais focadas no mercado brasileiro.
 
-<img width="1400" height="867" alt="image" src="https://github.com/user-attachments/assets/bb36bea5-7a45-4e9e-a8d1-ff0ac7afbef2" />
+<img width="1350" height="715" alt="image" src="https://github.com/user-attachments/assets/bb36bea5-7a45-4e9e-a8d1-ff0ac7afbef2" />
 
 ### 3. Doare.org
 
@@ -28,7 +28,7 @@ O público-alvo de doadores digitais no Brasil utiliza majoritariamente três pl
 
 - Descrição: Plataforma brasileira especializada em captação de doações online para o terceiro setor e negócios sociais. Destaca-se pela automação da régua de relacionamento, CRM integrado e soluções locais de pagamento.
 
-<img width="1522" height="675" alt="image" src="https://github.com/user-attachments/assets/78e82384-95aa-413b-8d5b-e0f346fe05be" />
+<img width="1350" height="715" alt="image" src="https://github.com/user-attachments/assets/78e82384-95aa-413b-8d5b-e0f346fe05be" />
 
 > **_NOTE:_**: link, descrição e imagens de ilustração
 ## 2. Descreva as características e funcionalidades de cada concorrente.
@@ -168,6 +168,8 @@ Após o cruzamento de toda a análise de dados com as necessidades identificadas
 
 7. Extraia pontos positivos/negativos e faça recomendações.
 
-Implementaremos gráficos de progresso circulares e barras de preenchimento dinâmicos no dashboards, codificados por meio da API de HTML5 Canvas integrada ao JavaScript.
-Nosso aplicativo contará com uma tela de doação Pix Expressa sem necessidade de criar conta, resolvendo o principal gargalo de 40% de desistência por cadastros longos identificado no nosso questionário. A área do doador mensal terá um botão direto e visível de cancelamento com 1 clique, eliminando a má experiência apontada no Reclame Aqui.
-O aplicativo lançará campanhas específicas e físicas baseadas nas metas orçamentárias reais da ONG (como a meta de R$ 1.500,00 de combustível ou R$ 2.500,00 dos eventos). Assim que a meta for batida, o sistema disparará notificações e atualizará o Mural de Impacto com fotos e relatórios práticos produzidos pela gestora.
+- Implementaremos gráficos de progresso circulares e barras de preenchimento dinâmicos no dashboards, codificados por meio da API de HTML5 Canvas integrada ao JavaScript.
+
+- Nosso aplicativo contará com uma tela de doação Pix Expressa sem necessidade de criar conta, resolvendo o principal gargalo de 40% de desistência por cadastros longos identificado no nosso questionário. A área do doador mensal terá um botão direto e visível de cancelamento com 1 clique, eliminando a má experiência apontada no Reclame Aqui.
+
+- O aplicativo lançará campanhas específicas e físicas baseadas nas metas orçamentárias reais da ONG (como a meta de R$ 1.500,00 de combustível ou R$ 2.500,00 dos eventos). Assim que a meta for batida, o sistema disparará notificações e atualizará o Mural de Impacto com fotos e relatórios práticos produzidos pela gestora.
