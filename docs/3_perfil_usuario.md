@@ -2,7 +2,7 @@
 
 > **_NOTE:_**: Esta entrega consolida e sintetiza os dados coletados na etapa de Pesquisa e Coleta de Dados com Usuários, caracterizando o público-alvo real antes de criar as personas (arquétipos fictícios). Aqui ainda não há personagem — são dados e padrões observados nos participantes reais.
 
-1) **Perfil Demográfico**
+### 1) **Perfil Demográfico**
 - Faixa etária, gênero, escolaridade, ocupação, localização geográfica e outros dados demográficos relevantes ao produto/serviço.
 
 - Faixa Etária: O público-alvo de doadores digitais é composto majoritariamente por jovens adultos e adultos. Os dados indicam que 25% dos respondentes têm entre 18 e 25 anos, seguidos por 25% na faixa de 25 a 36 anos. 21,4% na faixa de 36 a 50 anos, 21,4% na faixa de acima dos 50 anos e 7,1% com menos de 18 anos.
@@ -15,7 +15,7 @@ Não foram coletados dados sobre gênero na pesquisa qualitativa acima.
 
 Sobre as pacientes assistidas pela ONG (chamada de "Divas"), sejam exclusivamente mulheres adultas acima de 18 anos em tratamento oncológico, o público doador que interage com o aplicativo é misto e sem distinção de gênero.
 
-2) **Perfil Comportamental e Tecnológico**
+### 2) **Perfil Comportamental e Tecnológico**
 - Nível de familiaridade com tecnologia (baixo/médio/alto) e dispositivos mais usados.
 - Frequência e contexto de uso de produtos/serviços similares.
 - Hábitos relevantes para o produto ou serviço em questão.
@@ -36,7 +36,7 @@ Sobre as pacientes assistidas pela ONG (chamada de "Divas"), sejam exclusivament
   3. 14,8% por "falta de confiança" sobre como o dinheiro é gasto pela instituição.
   4. 11,1% devido ao "orçamento apertado".
 
-3) **Necessidades e Dores Consolidadas**
+### 3) **Necessidades e Dores Consolidadas**
 - Sintetize (não repita bruto) os principais achados da pesquisa: padrões que se repetiram entre os participantes, necessidades não atendidas e frustrações recorrentes.
 - Aponte, para cada necessidade/dor, quantos participantes (aproximadamente) a mencionaram — isso embasa a priorização nas próximas etapas.
 
@@ -50,7 +50,7 @@ A partir da triangulação das respostas abertas e dados de abandono no fluxo de
 | Medo de fraudes e interface amadora: Páginas com design desleixado ou que parecem antigas geram insegurança técnica. | 20,7% (6 de 29) | "O site/aplicativo parecia antigo" / "Acredito que a interface do aplicativo é uma parte importantíssima, porque uma aparência desleixada é o que quase sempre afasta as pessoas" |
 | Falta de feedback de impacto social: O doador deseja atualizações constantes sobre as metas alcançadas | 9 de 28 | Elevada concentração de notas de concordância máxima para receber atualizações: "gostaria de receber atualizações constantes de como está o projeto" |
 
-4) **Segmentação (se aplicável)**
+### 4) **Segmentação (se aplicável)**
 - Caso os dados revelem mais de um grupo de usuários com necessidades distintas, descreva cada segmento e o que os diferencia.
 - Indique qual(is) segmento(s) será(ão) priorizado(s) como personas primárias.
 
