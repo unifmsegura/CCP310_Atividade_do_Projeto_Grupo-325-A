@@ -43,7 +43,7 @@ graph TD
 
 - **Plano 2 (`2.1 > 2.2`):** O usuário escolhe o valor da contribuição antes de preencher o e-mail de contato.
 
-- **Plano 3.2 (`3.2.1 / 3.2.2`):** Relação de seleção. O doador escolhe ou copiar o código Pix para pagar no celular ou escanear o QR Code em outro dispositivo (nunca ambos).
+- **Plano 3 (`3.2.1 / 3.2.2`):** Relação de seleção. O doador escolhe ou copiar o código Pix para pagar no celular ou escanear o QR Code em outro dispositivo (nunca ambos).
 
 ## Tabela de Operações, Problemas e Recomendações:
 
