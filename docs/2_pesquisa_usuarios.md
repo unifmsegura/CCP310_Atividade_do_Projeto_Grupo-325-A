@@ -51,3 +51,25 @@ Para cada instrumento, apresente:
 | Questionário Quantitativo (Google Forms) | Quantificar as ferramentas utilizadas pelo público, a frequência real de doações e os principais pontos de fricção que causam abandono do fluxo. | Aplicação online por link estruturado. Sem coleta de e-mail ou dados identificadores pessoais. Tempo estimado de preenchimento de 5 minutos. | https://docs.google.com/forms/d/e/1FAIpQLSfPDx1awLMYwLPTHJgMzctoqupoQR7EjLgu6xrybKW4mSu1mA/viewform?usp=dialog |
 | Entrevista Semiestruturada | Investigar as motivações emocionais do ato de doar, receios de segurança com cartões de crédito e o que o doador espera de retorno visual após ajudar. | Sessão individual por chamada de vídeo (Microsoft Teams/Google Meet) ou presencial. O entrevistador segue o roteiro básico, mas tem liberdade para usar perguntas de acompanhamento para explorar sentimentos. | [Roteiro de Entrevista Qualitativa UX para Plataforma de Crowdfunding.pdf](https://github.com/user-attachments/files/31600623/Roteiro.de.Entrevista.Qualitativa.UX.para.Plataforma.de.Crowdfunding.pdf) |
 | Investigação Contextual (Sede) | Compreender a situação que a ONG se encontra. | O pesquisador atua no papel de aprendiz, visitando a sede física da ONG na Vila Mariana (SP) e observando de perto a rotina de atendimento de Alexandra. | [Entrevista.pdf](https://github.com/user-attachments/files/31600656/Entrevista.pdf) |
+
+## 4) **Dados coletados**
+
+<img width="645" height="312" alt="image" src="https://github.com/user-attachments/assets/61433df2-0160-4d31-bc4e-2c8ad977290f" />
+
+<img width="645" height="292" alt="image" src="https://github.com/user-attachments/assets/e7bad5fc-4236-462b-9d37-cee5653b59fd" />
+
+<img width="645" height="292" alt="image" src="https://github.com/user-attachments/assets/832d8311-3afd-4517-922f-31014cb3f348" />
+
+<img width="645" height="332" alt="image" src="https://github.com/user-attachments/assets/dd1c932c-9b3c-477d-b570-b8588744616e" />
+
+<img width="645" height="345" alt="image" src="https://github.com/user-attachments/assets/657c7d75-8bd7-4578-b902-82435de602a5" />
+
+<img width="645" height="382" alt="image" src="https://github.com/user-attachments/assets/d75e5b8a-49e6-4633-b896-583ebc4b966e" />
+
+<img width="645" height="537" alt="image" src="https://github.com/user-attachments/assets/9f390881-71c3-498b-93bd-3708c6569aae" />
+
+<img width="645" height="540" alt="image" src="https://github.com/user-attachments/assets/eccbc9da-344f-4f4b-84fb-15da4a036572" />
+
+<img width="645" height="537" alt="image" src="https://github.com/user-attachments/assets/d28b3b6a-8cb3-4e88-b837-c55b9b586c04" />
+
+<img width="645" height="537" alt="image" src="https://github.com/user-attachments/assets/650f3875-8bab-41ab-a66a-818e5accbf41" />
