@@ -60,6 +60,8 @@ Para cada instrumento, apresente:
 
 <img width="645" height="292" alt="image" src="https://github.com/user-attachments/assets/832d8311-3afd-4517-922f-31014cb3f348" />
 
+<img width="645" height="292" alt="image" src="https://github.com/user-attachments/assets/8a9aaa71-fa74-443a-8135-5b079261d037" />
+
 <img width="645" height="332" alt="image" src="https://github.com/user-attachments/assets/dd1c932c-9b3c-477d-b570-b8588744616e" />
 
 <img width="645" height="345" alt="image" src="https://github.com/user-attachments/assets/657c7d75-8bd7-4578-b902-82435de602a5" />
