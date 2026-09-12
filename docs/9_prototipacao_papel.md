@@ -19,13 +19,13 @@
 
 ## Relatório de Avaliação Heurística (Protótipo de Baixa Fidelidade)
 
-# 1. Objetivos e Escopo
+### 1. Objetivos e Escopo
 
 - Objetivo: Identificar sistematicamente falhas de usabilidade e barreiras interação na versão inicial em papel da plataforma de crowdfunding da ONG Eliane Martins, corrigindo os gargalos antes do refinamento na média fidelidade.
 
 - Escopo: Inspeção das telas móveis do doador.
 
-# 2. Descrição do Método
+### 2. Descrição do Método
 
 A Avaliação Heurística é um método de inspeção de IHC criado por Nielsen e Molich (1990) que visa encontrar problemas de usabilidade durante o processo de design iterativo. O avaliador examina a interface de forma sistemática, confrontado cada tela e elemento funcional com um conjunto de 10 diretrizes de usabilidade.
 
@@ -40,15 +40,15 @@ A Avaliação Heurística é um método de inspeção de IHC criado por Nielsen 
 9. **Reconhecimento, diagnóstico e recuperação de erros** 
 10. **Ajuda e documentação** 
 
-# 3. Perfil do Avaliador
+### 3. Perfil do Avaliador
 
 - Número de Avaliadores: 4
 
 - Perfil dos Avaliadores: Estudantes de Ciência da Computação (FEI)
 
-# 4. Lista de Problemas Encontrados
+### 4. Lista de Problemas Encontrados
 
-# Problema 1: Impossibilidade de Cancelar ou Voltar durante o fluxo de doação
+### Problema 1: Impossibilidade de Cancelar ou Voltar durante o fluxo de doação
 
 - Local onde ocorre: Tela 2 (Checkout Express) e Tela 3 (Pagamento Pix Express) do protótipo de papel.
 
@@ -60,7 +60,7 @@ A Avaliação Heurística é um método de inspeção de IHC criado por Nielsen 
 
 - Sugestão de Solução: Adicionar um ícone de seta no cabeçalho superior e um link de texto discreto no rodapé.
 
-# Problema 2: Exposição Obrigatórioa de nome e e-mail no Mural de Impacto.
+### Problema 2: Exposição Obrigatórioa de nome e e-mail no Mural de Impacto.
 
 - Local onde ocorre: Tela 2 (Checkout Express) e Tela 4 (Mural de Impacto).
 
@@ -72,7 +72,7 @@ A Avaliação Heurística é um método de inspeção de IHC criado por Nielsen 
 
 - Sugestão de Solução: Incluir um checkbox de seleção rápida na tela de checkout.
 
-# Problema 3: Ausência de tempo de validade (timer) do QR Code Pix
+### Problema 3: Ausência de tempo de validade (timer) do QR Code Pix
 
 - Local onde ocorre: Tela 3 (Pagamento Pix Express).
 
@@ -83,7 +83,8 @@ A Avaliação Heurística é um método de inspeção de IHC criado por Nielsen 
 - Severidade: 2 - O conserto melhora a previsibilidade do sistema.
 
 - Sugestão de Solução: Incluir um contador regressivo em destaque abaixo do QR Code.
- Problema 4: Redundância no fluxo de seleção de Plano Recorrente Mensal
+
+### Problema 4: Redundância no fluxo de seleção de Plano Recorrente Mensal
 
 - Local onde ocorre: Transição da Tela 1 (Home) para a Tela 2 (Checkout)
 
@@ -95,7 +96,7 @@ A Avaliação Heurística é um método de inspeção de IHC criado por Nielsen 
 
 - Sugestão de Solução: Criar uma rota direta para a assinatura mensal que pula a seleção de valores e exibe o resumo fixado com o valor bloqueado para edição.
 
-# Problema 5: Necessidade de Rolagem Vertical (scroll) na Tela de checkout móvel
+### Problema 5: Necessidade de Rolagem Vertical (scroll) na Tela de checkout móvel
 
 - Local onde ocorre: Tela 2 (Checkout Express).
 
@@ -109,25 +110,25 @@ A Avaliação Heurística é um método de inspeção de IHC criado por Nielsen 
 
 ## Relatório de Avaliação Heurística (Protótipo de Média Fidelidade - Figma)
 
-# 1. Objetivos e Escopo
+### 1. Objetivos e Escopo
 
 - Objetivo: Avaliar a usabilidade, consistência visual, mecanismos de controle do usuário e acessibilidade do protótipo de Média Fidelidade desenvolvido no Figma para a plataforma de financiamento coletivo da ONG Eliane Martins.
 
 - Escopo: Inspeção das interfaces responsivas móveis e das telas Web Desktop.
 
-# 2. Descrição do Método
+### 2. Descrição do Método
 
 A Avaliação Heurística (Nielsen e Molich, 1990) é um método de inspeção por especialistas que analisa a conformidade das telas com as 10 Heurísticas de Nielsen. Nesta fase, a avaliação identifica refinamentos finos de UI/UX necessários.
 
-# 3. Perfil do Avaliador
+### 3. Perfil do Avaliador
 
 - Número de Avaliadores: 4
 
 - Perfil dos Avaliadores: Estudantes de Ciência da Computação (FEI)
 
-# 4. Lista de Problemas Encontrados
+### 4. Lista de Problemas Encontrados
 
-# Problema 1: Tempo de Exibição "Código Pix Copiado"
+### Problema 1: Tempo de Exibição "Código Pix Copiado"
 
 - Local onde ocorre: Tela de Pagamento Pix.
 
@@ -139,7 +140,7 @@ A Avaliação Heurística (Nielsen e Molich, 1990) é um método de inspeção p
 
 - Sugestão de Solução: Ajustar o temporizador do Toast com transição de opacidade, além de alterar o texto do próprio botão para "Copiado!" temporariamente.
 
-# Problema 2: Falta de Modal de confirmação na pausa de campanhas (Dashboard Admin)
+### Problema 2: Falta de Modal de confirmação na pausa de campanhas (Dashboard Admin)
 
 - Local onde ocorre: Tela "Gerenciar Campanhas" do Dashboard da Alexandra.
 
