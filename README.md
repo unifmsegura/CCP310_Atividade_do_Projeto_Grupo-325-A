@@ -14,7 +14,7 @@ Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 
 - Apresente uma breve descrição.
 
-O projeto consiste em um aplicativo móvel de financiamento coletivo (crowdfunding) projetado sob medida para o Centro de Apoio ao Paciente Oncológico - Eliane Martins, uma ONG localizada na Vila Mariana (São Paulo). A instituição realiza o acolhimento humanizado, oficinas de autocuidado, apoio psicológico e terapias integrativas gratuitas para cerca de 350 mulheres adultas com câncer por mês. O aplicativo é focado em otimizar e centralizar a arrecadação de doações online para sustentar as atividades operacionais da instituição.
+O projeto consiste em um aplicativo móvel de financiamento coletivo (crowdfunding) projetado sob medida para o Centro de Apoio ao Paciente Oncológico - Eliane Martins, uma ONG localizada no bairro de Santana (região do Alto de Santana), na Zona Norte da cidade de São Paulo, SP. A instituição realiza o acolhimento humanizado, oficinas de autocuidado, apoio psicológico e terapias integrativas gratuitas para cerca de 350 mulheres adultas com câncer por mês. O aplicativo é focado em otimizar e centralizar a arrecadação de doações online para sustentar as atividades operacionais da instituição.
 
 - Apresente o objetivo.
 
