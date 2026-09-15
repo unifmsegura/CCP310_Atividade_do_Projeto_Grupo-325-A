@@ -82,6 +82,8 @@ A Avaliação Heurística é um método de inspeção de IHC criado por Nielsen 
 
 ### 4. Lista de Problemas Encontrados
 
+https://github.com/unifmsegura/CCP310_Atividade_do_Projeto_Grupo-325-A/blob/main/docs/9_prototipacao_papel.md
+
 ### Problema 1: Impossibilidade de Cancelar ou Voltar durante o fluxo de doação
 
 - Local onde ocorre: Tela 2 (Checkout Express) e Tela 3 (Pagamento Pix Express) do protótipo de papel.
