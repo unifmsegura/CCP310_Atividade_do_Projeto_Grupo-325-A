@@ -53,6 +53,16 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 
 ## Relatório de Avaliação Heurística (Protótipo de Baixa Fidelidade)
 
+<img width="900" height="1226" alt="image" src="https://github.com/user-attachments/assets/cf231d3a-8d26-44bd-b70f-8c9fa400d010" />
+
+<img width="900" height="1171" alt="image" src="https://github.com/user-attachments/assets/c66934c5-9423-44ba-a704-2afa20246bef" />
+
+<img width="900" height="1214" alt="image" src="https://github.com/user-attachments/assets/56d64a78-a8a0-4638-9677-ba4e399f649e" />
+
+<img width="900" height="1181" alt="image" src="https://github.com/user-attachments/assets/be27a7f2-583d-4656-b52a-e702c21953ad" />
+
+<img width="1200" height="848" alt="image" src="https://github.com/user-attachments/assets/269b7e46-c08d-4ff5-9e33-31bbe42dd405" />
+
 ### 1. Objetivos e Escopo
 
 - Objetivo: Identificar sistematicamente falhas de usabilidade e barreiras interação na versão inicial em papel da plataforma de crowdfunding da ONG Eliane Martins, corrigindo os gargalos antes do refinamento na média fidelidade.
