@@ -2,6 +2,8 @@
 
 Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário (CCP310) do curso de Ciencias da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](http://lattes.cnpq.br/6747210702910392).
 
+Link do Github do aplicativo: https://github.com/unifmsegura/ConectaCAPO/tree/main
+
 Este projeto é desenvolvido pelos seguintes alunos:
 
 - Matheus Bernardineli Segura - R.A.: 24.125.036-4
